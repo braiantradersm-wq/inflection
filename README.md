@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # INFLECTION
 
 Plataforma interactiva de psicología, neurociencia y desarrollo personal enfocada en
