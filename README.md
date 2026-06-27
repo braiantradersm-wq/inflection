@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # INFLECTION
 
 Plataforma interactiva de psicología, neurociencia y desarrollo personal enfocada en
@@ -56,3 +57,7 @@ lib/
 > Nota: `flutter create .` regenera las carpetas de plataforma. Si te sobreescribe
 > algún archivo de `lib/`, restaurá desde git. En Codespaces esto lo maneja
 > `scripts/setup.sh`, que preserva `lib/` y `pubspec.yaml`.
+=======
+# inflection
+Sistema de gestión para el estudio y aplicación del desarrollo humano.
+>>>>>>> f3c1e445f34e1aac0765bd05ce94ff3ba1097056
