@@ -1,0 +1,11 @@
+# Normaliza saltos de línea por defecto.
+* text=auto eol=lf
+
+# Scripts shell SIEMPRE en LF (si no, bash en Linux/Codespaces falla con ^M).
+*.sh text eol=lf
+
+# Código y config en LF.
+*.dart text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.md text eol=lf
